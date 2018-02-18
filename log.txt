@@ -1,0 +1,8 @@
+Feb 17, 2018 11:47:29 PM com.mangodev.util.Writer SetupLog
+INFO: LOGGING TEST
+Feb 17, 2018 11:47:30 PM com.mangodev.PreInit run
+INFO: PreInitilization phase has started
+Feb 17, 2018 11:47:30 PM com.mangodev.Init run
+INFO: Initilization phase has started
+Feb 17, 2018 11:47:30 PM com.mangodev.PostInit run
+INFO: PostInitilization phase has started
